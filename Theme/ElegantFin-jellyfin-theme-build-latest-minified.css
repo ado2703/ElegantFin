@@ -214,7 +214,9 @@
  }
 
  .vertical-wrap:not(.centered) {
-     justify-content: flex-start !important
+     /*justify-content: flex-start !important*/
+     justify-content: space-around !important;
+     display: flex;
  }
 
  .countIndicator,
