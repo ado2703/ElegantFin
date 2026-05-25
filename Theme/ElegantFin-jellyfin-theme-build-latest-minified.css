@@ -86,7 +86,7 @@
  }
 
  body {
-     --primaryItemPageNegativeSpace: 14vh;
+     --primaryItemPageNegativeSpace: 40vh;
      --secondaryItemPageNegativeSpace: 60vh;
      --clearLogoBottomSpace: 11em
  }
