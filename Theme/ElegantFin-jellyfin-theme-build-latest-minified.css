@@ -77,6 +77,12 @@
      --backdropTrimFromTop: 10%
  }
 
+ .detailPagePrimaryContent.padded-right{
+    --primaryItemPageNegativeSpace: 40vh !important;
+ }
+
+
+
  html {
      font-family: "Inter", sans-serif;
      font-optical-sizing: auto;
